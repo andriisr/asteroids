@@ -11,3 +11,4 @@ wheels/
 
 # Debuggin
 game_state.jsonl
+game_events.jsonl
